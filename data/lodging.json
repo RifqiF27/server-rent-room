@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Cozy Studio Apartment",
+        "facility": "Wi-Fi, Kitchen, Free Parking",
+        "roomCapacity": 2,
+        "imageUrl": "https://a0.muscache.com/im/pictures/826206b8-3894-4992-8213-4c9a10a75b0e.jpg?im_w=1440",
+        "authorId": 1,
+        "location": "New York City, NY",
+        "price": 6234092,
+        "typeId": 1
+    },
+    {
+        "name": "Luxury Beachfront Villa",
+        "facility": "Private Pool, Ocean View",
+        "roomCapacity": 6,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-922725061540734896/original/b31fc3e9-957b-4444-ac6a-c512a82acb6f.png?im_w=1200",
+        "authorId": 1,
+        "location": "Malibu, CA",
+        "price": 5143200,
+        "typeId": 2
+    },
+    {
+        "name": "Downtown Loft with a View",
+        "facility": "Gym, Rooftop Deck",
+        "roomCapacity": 4,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50437767/original/6394bd73-f742-40a7-9bac-faa6e1f7c04f.jpeg?im_w=1200",
+        "authorId": 1,
+        "location": "Chicago, IL",
+        "price": 3523110,
+        "typeId": 1
+    },
+    {
+        "name": "Mountain Cabin Retreat",
+        "facility": "Fireplace, Hiking Trails",
+        "roomCapacity": 4,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-584002458476995828/original/14ddddbe-f06c-49e6-b895-2dbe90cb6999.png?im_w=1200",
+        "authorId": 1,
+        "location": "Asheville, NC",
+        "price": 5234120,
+        "typeId": 2
+    },
+    {
+        "name": "Charming Historic Cottage",
+        "facility": "Garden, Antique Decor",
+        "roomCapacity": 3,
+        "imageUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49072357/original/f78886c6-1b14-4ebc-8b96-5d058b844fee.jpeg?im_w=1200",
+        "authorId": 1,
+        "location": "Charleston, SC",
+        "price": 9210435,
+        "typeId": 1
+    },
+    {
+        "name": "Ski-In/Ski-Out Chalet",
+        "facility": "Hot Tub, Fireplace",
+        "roomCapacity": 8,
+        "imageUrl": "https://a0.muscache.com/im/pictures/2de65da0-3ada-47ce-9bbe-b6be807e24a8.jpg?im_w=1200",
+        "authorId": 1,
+        "location": "Breckenridge, CO",
+        "price": 6324110,
+        "typeId": 2
+    },
+    {
+        "name": "Modern City View Condo",
+        "facility": "Pool, Gym, Parking",
+        "roomCapacity": 2,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-900021899236867436/original/b1cc5429-ca63-45ea-8c05-d8cf16974d11.jpeg?im_w=1440",
+        "authorId": 1,
+        "location": "Los Angeles, CA",
+        "price": 3421120,
+        "typeId": 1
+    },
+    {
+        "name": "Lakefront Cabin Getaway",
+        "facility": "Canoe, Fishing",
+        "roomCapacity": 6,
+        "imageUrl": "https://a0.muscache.com/im/pictures/28ac482b-3fe7-4fc3-8dbb-9bd4fc80e8c5.jpg?im_w=1200",
+        "authorId": 1,
+        "location": "Lake Tahoe, CA",
+        "price": 4323280,
+        "typeId": 2
+    },
+    {
+        "name": "Downtown Loft with a View",
+        "facility": "Gym, Rooftop Deck",
+        "roomCapacity": 4,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-994950767713002170/original/043060b2-5763-4915-985a-3a19742433e8.jpeg?im_w=1440",
+        "authorId": 1,
+        "location": "Seattle, WA",
+        "price": 4321140,
+        "typeId": 1
+    },
+    {
+        "name": "Rustic Farmhouse Retreat",
+        "facility": "Fireplace, Farm Animals",
+        "roomCapacity": 5,
+        "imageUrl": "https://a0.muscache.com/im/pictures/monet/Select-191013/original/5137da39-5e86-45ed-b88b-88843fc1283b?im_w=1200",
+        "authorId": 1,
+        "location": "Catskills, NY",
+        "price": 3234110,
+        "typeId": 2
+    },
+    {
+        "name": "Cozy Studio Apartment",
+        "facility": "Wi-Fi, Kitchen, Free Parking",
+        "roomCapacity": 2,
+        "imageUrl": "https://a0.muscache.com/im/pictures/2f31e101-79f2-488a-bf81-3f520cbfb3ef.jpg?im_w=1200",
+        "authorId": 1,
+        "location": "New York City, NY",
+        "price": 3217100,
+        "typeId": 1
+    },
+    {
+        "name": "Luxury Breathtaking Ocean Villa",
+        "facility": "Private Pool, Ocean View",
+        "roomCapacity": 6,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-549375499831412041/original/8880571a-2f37-4110-80c7-8d5e6c0508c2.jpeg?im_w=1200",
+        "authorId": 1,
+        "location": "Malibu, CA",
+        "price": 5763100,
+        "typeId": 2
+    },
+    {
+        "name": "Downtown The Lakefront Lookout",
+        "facility": "Gym, Rooftop Deck",
+        "roomCapacity": 4,
+        "imageUrl": "https://a0.muscache.com/im/pictures/6b73a069-d05c-4492-8ee6-c42d8cfdccdf.jpg?im_w=1200",
+        "authorId": 1,
+        "location": "Chicago, IL",
+        "price":4523150,
+        "typeId": 1
+    },
+    {
+        "name": "Modern Clean Mountain Retreat",
+        "facility": "Fireplace, Hiking Trails",
+        "roomCapacity": 4,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-943578343906663323/original/4b889b66-c206-4bfd-9a67-9bb8308110b8.jpeg?im_w=1200",
+        "authorId": 1,
+        "location": "Asheville, NC",
+        "price": 4223120,
+        "typeId": 2
+    },
+    {
+        "name": "Spacious Suite A",
+        "facility": "Garden, Antique Decor",
+        "roomCapacity": 3,
+        "imageUrl": "https://a0.muscache.com/im/pictures/717137f4-c747-4c10-9578-96ab695415f5.jpg?im_w=1200",
+        "authorId": 1,
+        "location": "Charleston, SC",
+        "price": 3214195,
+        "typeId": 1
+    },
+    {
+        "name": "The Pad ",
+        "facility": "Hot Tub, Fireplace",
+        "roomCapacity": 8,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-49208377/original/71dcbd64-ed8e-4365-939a-6c78f718ae98.jpeg?im_w=1200",
+        "authorId": 1,
+        "location": "Breckenridge, CO",
+        "price": 2221350,
+        "typeId": 2
+    },
+    {
+        "name": "One Bed in Female Only Dorm Room",
+        "facility": "Pool, Gym, Parking",
+        "roomCapacity": 2,
+        "imageUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-37910108/original/63f0e02b-5edb-4db6-a547-a939446fbd1f.jpeg?im_w=1200",
+        "authorId": 1,
+        "location": "Los Angeles, CA",
+        "price": 120,
+        "typeId": 1
+    },
+    {
+        "name": "Code Lock",
+        "facility": "Canoe, Fishing",
+        "roomCapacity": 6,
+        "imageUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-620401514490848893/original/d68bf5cd-0496-4ad1-bad5-e07a917d840a.jpeg?im_w=1200",
+        "authorId": 1,
+        "location": "Lake Tahoe, CA",
+        "price": 878230,
+        "typeId": 2
+    },
+    {
+        "name": "Chill Out In The Basement Room",
+        "facility": "Gym, Rooftop Deck",
+        "roomCapacity": 4,
+        "imageUrl": "https://a0.muscache.com/im/pictures/3913c7c8-d8ec-4903-8757-3f2afefae2fa.jpg?im_w=1200",
+        "authorId": 1,
+        "location": "Denver, CO",
+        "price": 1422110,
+        "typeId": 1
+    },
+    {
+        "name": "Cozy Private En Suite Room",
+        "facility": "Fireplace, Farm Animals",
+        "roomCapacity": 5,
+        "imageUrl": "https://a0.muscache.com/im/pictures/67292150-dc75-48b6-b865-c29e5d99c779.jpg?im_w=1200",
+        "authorId": 1,
+        "location": "Denver, CO",
+        "price": 2339110,
+        "typeId": 2
+    }
+]
